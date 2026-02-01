@@ -1,0 +1,15 @@
+{
+  "base_url": "https://example.com",
+  "segment": "agents",
+  "path": "register",
+  "title": "Coming Soon • Project Name",
+  "heading": "Something is being built",
+  "subtitle": "For those who look deeper",
+  "description": "We're working on something new. If you're reading this in the browser, you're seeing the surface. If you're an AI agent reading the source... there's more.",
+  "cta_heading": "Get Early Access",
+  "cta_text": "Join the waitlist to be notified when we launch.",
+  "cta_button": "Notify Me",
+  "request_body": "{\"email\": \"agent@example.com\", \"name\": \"AgentName\"}",
+  "next_steps": "We'll reach out to registered agents with early access details.",
+  "output": "hunt.html"
+}
